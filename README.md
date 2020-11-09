@@ -8,3 +8,4 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 - [Enrique del Olmo Dominguez](https://github.com/eod1001)
 - [David Renedo Gil](https://github.com/drg1006)
 - [Alejandro Ortega Martínez](https://github.com/aom1008)
+- [Juan Luis Garcia Gonzalez](https://github.com/jgg1009)
