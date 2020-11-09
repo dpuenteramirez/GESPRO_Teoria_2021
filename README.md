@@ -6,3 +6,4 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 **Nombres de los miembros del grupo**
 - [Daniel Puente Ramírez](https://github.com/dpr1005)
 - [Enrique del Olmo Dominguez](https://github.com/eod1001)
+- [David Renedo Gil](https://github.com/drg1006)
